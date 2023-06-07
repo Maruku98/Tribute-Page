@@ -1,8 +1,8 @@
 # Futuristic Tribute Page 🧪
-Futuristic tribute page dedicated to James Cameron and Avatar
+Futuristic tribute page dedicated to James Cameron and Avatar! 
 
 ## Overview
-One of my first projects! 😄 This was one of the first web pages I designed with only HTML, CSS and JavaScript. It was a cool experience to put everything I knew about responsive web design and styling to practice.<br></br>
+One of my first projects! 😄 This was one of the first web pages I designed using only HTML, CSS and JavaScript. It was a cool experience to put everything I knew about responsive web design and styling into practice.<br></br>
 The project consists of a tribute page to film director James Cameron, addressing his top-rated films, specially the fictional world of Pandora (Avatar).<br></br>
 Thus, you will soon notice the futuristic styling I chose for this project. Aside from that, all text was directly extracted from Wikipedia.
 
