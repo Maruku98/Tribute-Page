@@ -12,7 +12,7 @@ Thus, you will soon notice the futuristic styling I chose for this project. Asid
 - JavaScript ES6
 
 ## STYLING
-- The styling was entirely done with CSS3, with no frameworks nor libraries. I used both simple and complex styling parameters to achieve an entirely responsive web page that rearranges its contents according to screen - width.
+- The styling and visual effects were entirely done with CSS3, with no frameworks nor libraries. I used both simple and complex styling parameters to achieve an entirely responsive web page that rearranges its contents according to screen - width.
 - Said rearranging of web content is handled with `media queries`.
 - JavaScript is scarcely used in this project since I was just starting to learn about it. Some basic DOM methods like `.addEventListener`, `.getElementById` and mouse `events` are used to respond to basic user interactions by traversing the DOM.
 - Music on! 🎵 I even implemented two buttons to play or pause Pandora's ambient music.
